@@ -283,6 +283,7 @@
       "isActive": true
     }
   ],
+<<<<<<< HEAD
   "hotels": [
     {
       "id": 9,
@@ -783,6 +784,428 @@
       "isModerated": true,
       "createDate": "2014-07-15T13:17:20 -06:00",
       "updateDate": "2016-10-18T10:12:14 -06:00"
+=======
+  "restaraunts": [
+    {
+      "id": 1,
+      "createBy": 11,
+      "createdDate": "2019-06-03T18:42:30-00:00",
+      "updateDate": "2019-05-17T19:13:01-00:00",
+      "isActive": true,
+      "isModerated": false,
+      "mainImage": "http://placehold.it/32x32",
+      "name": "ISOLOGICA",
+      "rate": 1,
+      "email": "roseanngonzales@isologica.com",
+      "price": 485,
+      "phone": "996505898549",
+      "address": "улица Боконбаева, Бишкек 120",
+      "location": {
+        "latitude": 57.581032,
+        "longitude": 73.324385
+      },
+      "description": "Sunt do sunt culpa ipsum dolore. Nisi commodo aliquip officia cillum qui. Consectetur cillum dolor pariatur do exercitation nostrud occaecat amet Lorem eiusmod reprehenderit. Sit enim aliquip sint pariatur culpa nisi dolor do mollit esse.\r\n",
+      "images": "http://placehold3.it/32x32"
+    },
+    {
+      "id": 2,
+      "createBy": 8,
+      "createdDate": "2019-05-20T02:48:12-00:00",
+      "updateDate": "2019-06-03T23:03:15-00:00",
+      "isActive": false,
+      "isModerated": true,
+      "mainImage": "http://placehold.it/32x32",
+      "name": "ISOPOP",
+      "rate": 2,
+      "email": "roseanngonzales@isopop.com",
+      "price": 616,
+      "phone": "996779911558",
+      "address": "Коенкозов көчөсү 70, Каракол 722200",
+      "location": {
+        "latitude": 61.916428,
+        "longitude": 70.078538
+      },
+      "description": "Nisi cupidatat tempor enim dolore non quis occaecat. Aliqua cillum labore reprehenderit ex proident nisi et. Dolor nulla velit ullamco eiusmod aute qui sit culpa qui fugiat. Officia sunt cillum exercitation est pariatur cupidatat reprehenderit quis deserunt.\r\n",
+      "images": "http://placehold1.it/32x32"
+    },
+    {
+      "id": 3,
+      "createBy": 7,
+      "createdDate": "2019-07-03T14:29:00-00:00",
+      "updateDate": "2019-05-26T02:26:18-00:00",
+      "isActive": false,
+      "isModerated": true,
+      "mainImage": "http://placehold.it/32x32",
+      "name": "GEEKOLA",
+      "rate": 5,
+      "email": "roseanngonzales@geekola.com",
+      "price": 942,
+      "phone": "996555813452",
+      "address": "Коенкозов көчөсү 70, Каракол 722200",
+      "location": {
+        "latitude": 48.010963,
+        "longitude": 60.629567
+      },
+      "description": "Voluptate consequat irure voluptate officia. Tempor officia in ad cillum mollit duis laborum in non ad quis ex. Cillum do duis occaecat reprehenderit. Quis id enim reprehenderit sunt anim. Voluptate amet proident adipisicing ullamco anim tempor aliquip do ex deserunt excepteur.\r\n",
+      "images": "http://placehold2.it/32x32"
+    },
+    {
+      "id": 4,
+      "createBy": 12,
+      "createdDate": "2019-05-24T06:08:40-00:00",
+      "updateDate": "2019-06-10T14:59:14-00:00",
+      "isActive": false,
+      "isModerated": false,
+      "mainImage": "http://placehold.it/32x32",
+      "name": "ENERSAVE",
+      "rate": 2,
+      "email": "roseanngonzales@enersave.com",
+      "price": 221,
+      "phone": "996553984549",
+      "address": "улица Боконбаева, Бишкек 120",
+      "location": {
+        "latitude": 55.895175,
+        "longitude": 63.457312
+      },
+      "description": "Est id minim esse do consectetur dolore enim laboris ex. Minim anim ea minim eiusmod do occaecat nulla velit occaecat sint aliqua adipisicing proident. Proident veniam esse consectetur dolore sunt sunt laborum labore nisi. Fugiat sunt proident tempor ipsum officia ullamco. Eu magna dolore aute eiusmod ad. Labore duis dolore duis commodo quis nisi id quis occaecat do aute mollit mollit deserunt. Anim esse aliquip laboris anim ipsum in magna.\r\n",
+      "images": "http://placehold3.it/32x32"
+    },
+    {
+      "id": 5,
+      "createBy": 1,
+      "createdDate": "2019-06-29T04:36:13-00:00",
+      "updateDate": "2019-06-22T23:20:25-00:00",
+      "isActive": false,
+      "isModerated": true,
+      "mainImage": "http://placehold.it/32x32",
+      "name": "LUNCHPOD",
+      "rate": 0,
+      "email": "roseanngonzales@lunchpod.com",
+      "price": 96,
+      "phone": "996700910483",
+      "address": "улица Боконбаева, Бишкек 120",
+      "location": {
+        "latitude": 44.447984,
+        "longitude": 60.616714
+      },
+      "description": "Magna sint incididunt enim elit non. Non occaecat reprehenderit amet occaecat Lorem laborum nulla. Elit sunt nisi mollit cillum adipisicing amet id aliqua exercitation id adipisicing aliqua commodo.\r\n",
+      "images": "http://placehold1.it/32x32"
+    },
+    {
+      "id": 6,
+      "createBy": 12,
+      "createdDate": "2019-07-10T23:26:27-00:00",
+      "updateDate": "2019-07-02T06:20:58-00:00",
+      "isActive": false,
+      "isModerated": false,
+      "mainImage": "http://placehold.it/32x32",
+      "name": "INSURON",
+      "rate": 4,
+      "email": "roseanngonzales@insuron.com",
+      "price": 786,
+      "phone": "996708868597",
+      "address": "ул. Ашхабадская, Бишкек 30",
+      "location": {
+        "latitude": 42.782493,
+        "longitude": 48.126536
+      },
+      "description": "Culpa ipsum minim magna cupidatat sit culpa aliqua cupidatat ex cillum Lorem minim. Pariatur do Lorem minim dolore nisi nisi culpa qui sit. Nisi dolore proident est cupidatat consectetur sunt occaecat. Fugiat eu aliquip aliqua non magna ex dolore ipsum cupidatat cupidatat eiusmod.\r\n",
+      "images": "http://placehold2.it/32x32"
+    },
+    {
+      "id": 7,
+      "createBy": 13,
+      "createdDate": "2019-05-23T13:05:56-00:00",
+      "updateDate": "2019-06-03T08:26:13-00:00",
+      "isActive": false,
+      "isModerated": false,
+      "mainImage": "http://placehold.it/32x32",
+      "name": "BOVIS",
+      "rate": 4,
+      "email": "roseanngonzales@bovis.com",
+      "price": 472,
+      "phone": "996553804547",
+      "address": "ул. Ашхабадская, Бишкек 30",
+      "location": {
+        "latitude": 48.786459,
+        "longitude": 53.057819
+      },
+      "description": "Laborum do irure aute irure consequat labore ea labore Lorem dolor ex. Consectetur qui laboris cupidatat veniam reprehenderit voluptate eu aliqua. Veniam reprehenderit velit exercitation occaecat consequat consectetur est minim Lorem. Id esse voluptate amet commodo velit consequat ut. Sint in eiusmod tempor occaecat tempor nulla duis ipsum sunt commodo duis minim culpa in.\r\n",
+      "images": "http://placehold2.it/32x32"
+    },
+    {
+      "id": 8,
+      "createBy": 9,
+      "createdDate": "2019-06-28T08:12:16-00:00",
+      "updateDate": "2019-05-24T04:01:46-00:00",
+      "isActive": true,
+      "isModerated": false,
+      "mainImage": "http://placehold.it/32x32",
+      "name": "UNCORP",
+      "rate": 2,
+      "email": "roseanngonzales@uncorp.com",
+      "price": 274,
+      "phone": "996505892599",
+      "address": "улица Боконбаева, Бишкек 120",
+      "location": {
+        "latitude": 44.699771,
+        "longitude": 61.001916
+      },
+      "description": "Aute cillum occaecat elit quis veniam in. Tempor reprehenderit ex id dolor consequat ipsum et. Eu in nisi tempor qui nostrud commodo quis.\r\n",
+      "images": "http://placehold1.it/32x32"
+    },
+    {
+      "id": 9,
+      "createBy": 13,
+      "createdDate": "2019-07-10T16:08:34-00:00",
+      "updateDate": "2019-06-13T04:43:30-00:00",
+      "isActive": true,
+      "isModerated": true,
+      "mainImage": "http://placehold.it/32x32",
+      "name": "CABLAM",
+      "rate": 5,
+      "email": "roseanngonzales@cablam.com",
+      "price": 385,
+      "phone": "996553838567",
+      "address": "ул. Ашхабадская, Бишкек 30",
+      "location": {
+        "latitude": 63.927649,
+        "longitude": 73.102714
+      },
+      "description": "Duis laborum duis eu voluptate cillum. Commodo tempor id anim non ea elit voluptate reprehenderit anim reprehenderit anim. Ea occaecat deserunt esse dolor eiusmod id enim consectetur duis irure.\r\n",
+      "images": "http://placehold3.it/32x32"
+    },
+    {
+      "id": 10,
+      "createBy": 19,
+      "createdDate": "2019-07-01T12:26:37-00:00",
+      "updateDate": "2019-05-25T09:08:12-00:00",
+      "isActive": false,
+      "isModerated": true,
+      "mainImage": "http://placehold.it/32x32",
+      "name": "TYPHONICA",
+      "rate": 2,
+      "email": "roseanngonzales@typhonica.com",
+      "price": 112,
+      "phone": "996775975600",
+      "address": "улица Боконбаева, Бишкек 120",
+      "location": {
+        "latitude": 62.570401,
+        "longitude": 50.587542
+      },
+      "description": "Ad anim dolore nostrud dolore est cillum qui. Ad laboris aliqua deserunt reprehenderit velit ea quis aliqua. Elit consectetur sint ullamco aliquip amet velit qui sunt nulla. Nisi velit do Lorem Lorem. Excepteur ex tempor adipisicing tempor eu aliquip laborum irure do pariatur elit. Culpa dolore aliquip dolor quis ad aliquip quis aliquip ea esse Lorem culpa occaecat.\r\n",
+      "images": "http://placehold2.it/32x32"
+    },
+    {
+      "id": 11,
+      "createBy": 7,
+      "createdDate": "2019-06-05T16:40:48-00:00",
+      "updateDate": "2019-06-08T11:02:12-00:00",
+      "isActive": true,
+      "isModerated": true,
+      "mainImage": "http://placehold.it/32x32",
+      "name": "TECHTRIX",
+      "rate": 5,
+      "email": "roseanngonzales@techtrix.com",
+      "price": 451,
+      "phone": "996775999528",
+      "address": "ул. Ашхабадская, Бишкек 30",
+      "location": {
+        "latitude": 44.819374,
+        "longitude": 46.211992
+      },
+      "description": "Consectetur quis cillum esse eu qui sint nulla velit. Velit nulla consectetur in et eiusmod ut labore aliquip pariatur quis. Lorem eu eiusmod veniam irure ut sint sint officia aliqua cupidatat eu sunt culpa. Amet ut officia nostrud ullamco occaecat esse adipisicing elit. Voluptate aliquip aute ex nostrud non adipisicing labore sint. Do occaecat commodo aute commodo ipsum duis commodo Lorem amet sunt.\r\n",
+      "images": "http://placehold3.it/32x32"
+    },
+    {
+      "id": 12,
+      "createBy": 17,
+      "createdDate": "2019-07-10T11:35:25-00:00",
+      "updateDate": "2019-06-20T16:15:59-00:00",
+      "isActive": false,
+      "isModerated": true,
+      "mainImage": "http://placehold.it/32x32",
+      "name": "ZYPLE",
+      "rate": 2,
+      "email": "roseanngonzales@zyple.com",
+      "price": 619,
+      "phone": "996505969596",
+      "address": "ул. Ашхабадская, Бишкек 30",
+      "location": {
+        "latitude": 45.711499,
+        "longitude": 45.014979
+      },
+      "description": "Occaecat ad commodo excepteur pariatur minim nulla duis mollit sit pariatur. Eu consectetur sunt aliquip qui. Labore excepteur aute incididunt dolore esse et incididunt. Dolore ad consectetur amet proident est cillum velit non. Quis pariatur esse non sit eu id id fugiat eiusmod laborum est sit.\r\n",
+      "images": "http://placehold1.it/32x32"
+    },
+    {
+      "id": 13,
+      "createBy": 15,
+      "createdDate": "2019-07-10T06:57:09-00:00",
+      "updateDate": "2019-06-13T19:28:19-00:00",
+      "isActive": false,
+      "isModerated": true,
+      "mainImage": "http://placehold.it/32x32",
+      "name": "MAGNINA",
+      "rate": 2,
+      "email": "roseanngonzales@magnina.com",
+      "price": 156,
+      "phone": "996708875531",
+      "address": "улица Боконбаева, Бишкек 120",
+      "location": {
+        "latitude": 64.36799,
+        "longitude": 44.759474
+      },
+      "description": "Veniam nulla aute culpa aliqua enim proident deserunt officia. Do minim ullamco adipisicing ea commodo velit non mollit reprehenderit veniam excepteur ad. Officia ex culpa ex eiusmod fugiat in veniam deserunt. Non amet duis laborum esse commodo occaecat enim. Lorem sit voluptate enim voluptate minim dolor commodo anim.\r\n",
+      "images": "http://placehold2.it/32x32"
+    },
+    {
+      "id": 14,
+      "createBy": 12,
+      "createdDate": "2019-06-30T21:23:39-00:00",
+      "updateDate": "2019-06-23T07:35:39-00:00",
+      "isActive": false,
+      "isModerated": false,
+      "mainImage": "http://placehold.it/32x32",
+      "name": "CODACT",
+      "rate": 4,
+      "email": "roseanngonzales@codact.com",
+      "price": 933,
+      "phone": "996553949574",
+      "address": "Коенкозов көчөсү 70, Каракол 722200",
+      "location": {
+        "latitude": 60.443666,
+        "longitude": 69.418591
+      },
+      "description": "Consequat sit amet velit eiusmod laboris proident elit ea eu tempor cupidatat deserunt. Veniam voluptate non est nostrud dolor culpa laboris mollit cillum magna incididunt. Incididunt sint proident proident anim nulla anim mollit dolore quis. Ullamco officia occaecat sint cupidatat velit reprehenderit esse in. Aliqua nulla magna esse aliqua occaecat ut commodo occaecat quis irure.\r\n",
+      "images": "http://placehold2.it/32x32"
+    },
+    {
+      "id": 15,
+      "createBy": 3,
+      "createdDate": "2019-05-25T06:11:51-00:00",
+      "updateDate": "2019-06-20T23:51:37-00:00",
+      "isActive": false,
+      "isModerated": false,
+      "mainImage": "http://placehold.it/32x32",
+      "name": "WAAB",
+      "rate": 4,
+      "email": "roseanngonzales@waab.com",
+      "price": 418,
+      "phone": "996705836579",
+      "address": "ул. Ашхабадская, Бишкек 30",
+      "location": {
+        "latitude": 45.596528,
+        "longitude": 52.175207
+      },
+      "description": "Esse laboris culpa in incididunt ea. Esse consequat est laborum dolore cupidatat. Sit deserunt officia occaecat ad ea sit ut. Culpa in commodo excepteur exercitation non dolore. Officia proident nisi aute et minim do enim. Ullamco deserunt occaecat magna labore. Culpa culpa sit in elit qui sunt.\r\n",
+      "images": "http://placehold1.it/32x32"
+    },
+    {
+      "id": 16,
+      "createBy": 9,
+      "createdDate": "2019-06-11T06:04:44-00:00",
+      "updateDate": "2019-06-12T11:35:47-00:00",
+      "isActive": true,
+      "isModerated": true,
+      "mainImage": "http://placehold.it/32x32",
+      "name": "LOCAZONE",
+      "rate": 0,
+      "email": "roseanngonzales@locazone.com",
+      "price": 836,
+      "phone": "996779847448",
+      "address": "ул. Ашхабадская, Бишкек 30",
+      "location": {
+        "latitude": 66.488403,
+        "longitude": 63.23702
+      },
+      "description": "Reprehenderit officia esse nisi proident. Consequat magna exercitation ad nulla esse nisi esse est nulla laborum nostrud est. Tempor pariatur proident ad sunt est. Dolore fugiat aute culpa incididunt elit eiusmod eiusmod excepteur occaecat. Ullamco ad commodo nisi veniam cupidatat nostrud sit exercitation adipisicing. Laborum eu occaecat consectetur aute. Esse reprehenderit sint reprehenderit sint eiusmod enim nulla dolore.\r\n",
+      "images": "http://placehold1.it/32x32"
+    },
+    {
+      "id": 17,
+      "createBy": 20,
+      "createdDate": "2019-06-20T12:28:10-00:00",
+      "updateDate": "2019-07-03T07:25:28-00:00",
+      "isActive": true,
+      "isModerated": true,
+      "mainImage": "http://placehold.it/32x32",
+      "name": "SKINSERVE",
+      "rate": 4,
+      "email": "roseanngonzales@skinserve.com",
+      "price": 511,
+      "phone": "996775900416",
+      "address": "улица Боконбаева, Бишкек 120",
+      "location": {
+        "latitude": 66.750751,
+        "longitude": 61.411064
+      },
+      "description": "Dolor sint consequat do sint nisi. Adipisicing laboris fugiat do veniam commodo et do. Aute cupidatat ea id minim eiusmod dolor cupidatat. Sunt in cillum ad eu enim magna qui proident id nisi in amet pariatur elit. Eiusmod aute veniam duis ut est ullamco occaecat nisi reprehenderit mollit irure fugiat aliqua et. Esse dolore aute laboris tempor. Occaecat non duis incididunt duis deserunt incididunt.\r\n",
+      "images": "http://placehold3.it/32x32"
+    },
+    {
+      "id": 18,
+      "createBy": 11,
+      "createdDate": "2019-06-14T15:56:14-00:00",
+      "updateDate": "2019-06-23T08:55:09-00:00",
+      "isActive": true,
+      "isModerated": true,
+      "mainImage": "http://placehold.it/32x32",
+      "name": "ZIORE",
+      "rate": 0,
+      "email": "roseanngonzales@ziore.com",
+      "price": 480,
+      "phone": "996553846419",
+      "address": "Коенкозов көчөсү 70, Каракол 722200",
+      "location": {
+        "latitude": 58.645124,
+        "longitude": 43.15395
+      },
+      "description": "Adipisicing nisi anim laboris est laboris. Laborum aute sit nisi laboris laboris aute nisi aute ullamco adipisicing enim eu magna adipisicing. Velit eiusmod proident eiusmod est incididunt velit ipsum pariatur eiusmod sit ipsum aliqua mollit.\r\n",
+      "images": "http://placehold3.it/32x32"
+    },
+    {
+      "id": 19,
+      "createBy": 14,
+      "createdDate": "2019-06-04T03:58:29-00:00",
+      "updateDate": "2019-06-15T19:44:26-00:00",
+      "isActive": false,
+      "isModerated": true,
+      "mainImage": "http://placehold.it/32x32",
+      "name": "EARTHPLEX",
+      "rate": 2,
+      "email": "roseanngonzales@earthplex.com",
+      "price": 652,
+      "phone": "996553980425",
+      "address": "ул. Ашхабадская, Бишкек 30",
+      "location": {
+        "latitude": 66.491921,
+        "longitude": 46.180706
+      },
+      "description": "Laborum amet veniam proident officia irure. Ea ipsum reprehenderit et pariatur amet aute consectetur sunt. Magna veniam proident ex esse elit proident adipisicing consectetur cupidatat consequat cillum proident irure dolore. Ex eu occaecat id ea officia.\r\n",
+      "images": "http://placehold3.it/32x32"
+    },
+    {
+      "id": 20,
+      "createBy": 9,
+      "createdDate": "2019-07-01T08:14:26-00:00",
+      "updateDate": "2019-06-04T22:16:17-00:00",
+      "isActive": true,
+      "isModerated": true,
+      "mainImage": "http://placehold.it/32x32",
+      "name": "ROCKYARD",
+      "rate": 4,
+      "email": "roseanngonzales@rockyard.com",
+      "price": 488,
+      "phone": "996775951509",
+      "address": "ул. Ашхабадская, Бишкек 30",
+      "location": {
+        "latitude": 57.498979,
+        "longitude": 61.038391
+      },
+      "description": "Magna ad ipsum sint ex aute reprehenderit. Eiusmod laborum mollit aliqua officia nisi do labore id. Ea non tempor adipisicing excepteur irure consectetur sint do amet fugiat quis eu. Irure aliqua consequat laborum ea et. Esse in non eiusmod sunt cupidatat quis irure sint commodo. Voluptate qui ea commodo officia.\r\n",
+      "images": "http://placehold3.it/32x32"
+>>>>>>> dccd5eb80cc39a529b4b5917b2f11f62900c015d
     }
   ],
   "articles": [
