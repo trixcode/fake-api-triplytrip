@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "json-server": "^0.14.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
   }
 }
