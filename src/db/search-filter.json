@@ -1,0 +1,252 @@
+{
+  "search-filter": [
+    {
+      "hotels": [
+        {
+          "id": 1,
+          "name": "VERTON",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 2,
+          "name": "REALMO",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 3,
+          "name": "COMTEST",
+          "city": "Каракол",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 4,
+          "name": "DOGNOSIS",
+          "city": "Каракол",
+          "country": "Kyrgyzstan"
+        },
+        {
+          "id": 5,
+          "name": "ARTWORLDS",
+          "city": "Каракол",
+          "country": "Kyrgyzstan"
+        },
+        {
+          "id": 6,
+          "name": "ACIUM",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 7,
+          "name": "EPLODE",
+          "city": "Каракол",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 8,
+          "name": "QUIZMO",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 9,
+          "name": "ROCKLOGIC",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 10,
+          "name": "LINGOAGE",
+          "city": "Каракол",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 11,
+          "name": "INRT",
+          "city": "Каракол",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 12,
+          "name": "HATOLOGY",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 13,
+          "name": "SKYPLEX",
+          "city": "Каракол",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 14,
+          "name": "ZENSUS",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 15,
+          "name": "BUZZWORKS",
+          "city": "Каракол",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 16,
+          "name": "APEXIA",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 17,
+          "name": "GEOSTELE",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 18,
+          "name": "QUANTASIS",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 19,
+          "name": "SLOFAST",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 20,
+          "name": "ZOLAVO",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        }
+      ]
+    },
+    {
+      "reustaraunts": [
+        {
+          "id": 1,
+          "name": "ISOLOGICA",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 2,
+          "name": "ISOPOP",
+          "city": "Каракол",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 3,
+          "name": "GEEKOLA",
+          "city": "Каракол",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 4,
+          "name": "ENERSAVE",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 5,
+          "name": "LUNCHPOD",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 6,
+          "name": "INSURON",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 7,
+          "name": "BOVIS",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 8,
+          "name": "UNCORP",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 9,
+          "name": "CABLAM",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 10,
+          "name": "TYPHONICA",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 11,
+          "name": "TECHTRIX",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 12,
+          "name": "ZYPLE",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 13,
+          "name": "MAGNINA",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 14,
+          "name": "CODACT",
+          "city": "Каракол",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 15,
+          "name": "WAAB",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 16,
+          "name": "LOCAZONE",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 17,
+          "name": "SKINSERVE",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 18,
+          "name": "ZIORE",
+          "city": "Каракол",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 19,
+          "name": "EARTHPLEX",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        },
+        {
+          "id": 20,
+          "name": "ROCKYARD",
+          "city": "Бишкек",
+          "country": "Кыргызстан"
+        }
+      ]
+    }
+  ]
+}
