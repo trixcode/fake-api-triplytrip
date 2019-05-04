@@ -5,7 +5,7 @@ const fs = require('fs')
 const _ = require('lodash')
 
 const FIRST_OBJECT_KEY = 0
-const PORT = 3000;
+const PORT = 8000;
 
 
 let endpoints = [];
@@ -32,11 +32,20 @@ files.forEach((fileName) => {
   }
 })
 
+
+
 const router = jsonServer.router(objectDB)
 const middlewares = jsonServer.defaults()
 
+
+server.use(jsonServer.rewriter({
+  '/api/v1/*': '/$1',
+  '/populars/': '/hotels?rating=5&_limit=8',
+}))
+
 server.use(middlewares)
 server.use(router)
+
 
 server.listen(PORT, () => {
   console.log('\n⛴    JSON Server is running at http://localhost:' + PORT );
