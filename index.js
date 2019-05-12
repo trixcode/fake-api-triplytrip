@@ -41,6 +41,7 @@ const middlewares = jsonServer.defaults()
 server.use(jsonServer.rewriter({
   '/api/v1/*': '/$1',
   '/populars/': '/hotels?rating=5&_limit=8',
+  '/search/': '/restaraunts?city=Каракол',
 }))
 
 server.use(middlewares)
