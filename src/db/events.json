@@ -1,0 +1,30 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Low Road Live",
+      "type": "Festival, Night Live",
+      "price": 120,
+      "status": "",
+      "rating": "4,3",
+      "adress": "8-9 Hoxton Square London N1",
+      "fromDate": "July 22, 19",
+      "fromTime": "10:15 AM",
+      "toDate": "July 26, 19",
+      "toTime": "10:15 AM"
+    },
+    {
+      "id": 2,
+      "name": "Food Fest",
+      "type": "Festival, Food",
+      "price": 100,
+      "status": "Closed",
+      "rating": "4,5",
+      "adress": "Strip N11 Las-Vegas",
+      "fromDate": "July 24, 20",
+      "fromTime": "10:15 AM",
+      "toDate": "July 27, 20",
+      "toTime": "10:15 AM"
+    }
+  ]
+}
