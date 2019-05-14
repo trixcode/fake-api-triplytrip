@@ -1,0 +1,49 @@
+{
+  "sities": [
+    {
+      "id": 1,
+      "name": "Bishkek",
+      "description": "Excepteur laboris occaecat sint minim in qui aliquip sunt do in consectetur ut labore. Culpa fugiat aliqua laboris sit enim ex."
+    },
+    {
+      "id": 2,
+      "name": "Osh",
+      "description": "Incididunt ex magna velit sint incididunt irure officia adipisicing nostrud in adipisicing minim. Id et aliquip mollit cupidatat pariatur."
+    },
+    {
+      "id": 3,
+      "name": "Kant",
+      "description": "Aute id nulla in tempor minim. Et cillum ut magna tempor ullamco."
+    },
+    {
+      "id": 4,
+      "name": "Karakol",
+      "description": "Nostrud in ut sunt cupidatat sunt fugiat amet velit culpa eiusmod. Occaecat sint reprehenderit pariatur anim consectetur laborum nisi do amet elit ad culpa elit."
+    },
+    {
+      "id": 5,
+      "name": "Jalal Abad",
+      "description": "Officia est incididunt est est. Ut duis culpa ad laboris laborum."
+    },
+    {
+      "id": 6,
+      "name": "Batken",
+      "description": "Ullamco elit quis cillum proident. Et ea irure ad minim elit ea aliqua elit dolore in magna cillum Lorem qui."
+    },
+    {
+      "id": 7,
+      "name": "Tokmok",
+      "description": "Sint non tempor tempor voluptate id in proident pariatur reprehenderit laboris anim sit ex. Amet aliquip minim commodo veniam incididunt fugiat consectetur dolore."
+    },
+    {
+      "id": 8,
+      "name": "Naryn",
+      "description": "Ea nulla enim ea occaecat minim esse Lorem commodo sunt labore ad. Et ut dolore nostrud duis."
+    },
+    {
+      "id": 9,
+      "name": "Talas",
+      "description": "Cupidatat nostrud eu occaecat dolor reprehenderit. In sit cillum et anim ullamco ullamco anim nostrud laborum nulla."
+    }
+  ]
+}

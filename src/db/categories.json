@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "hotel",
+      "discription": ""
+    },
+    {
+      "id": 2,
+      "name": "restaurant",
+      "discription": ""
+    },
+    {
+      "id": 3,
+      "name": "cafe",
+      "discription": ""
+    }
+  ]
+}
