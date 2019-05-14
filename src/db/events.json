@@ -1,30 +1,365 @@
 {
-  "events": [
+  "events":
+  [
     {
       "id": 1,
-      "name": "Low Road Live",
-      "type": "Festival, Night Live",
-      "price": 120,
-      "status": "",
-      "rating": "4,3",
-      "adress": "8-9 Hoxton Square London N1",
-      "fromDate": "July 22, 19",
-      "fromTime": "10:15 AM",
-      "toDate": "July 26, 19",
-      "toTime": "10:15 AM"
+      "name": "Filodyne Imageflow Exospeed",
+      "price": 150,
+      "imageUrl": "https://img2.goodfon.com/wallpaper/big/c/5c/hotel-vyveska-neon-vecher.jpg",
+      "isOpen": false,
+      "dateTimeStart": "2019-05-26T10:28:49-00:00",
+      "dateTimeEnd": "2019-05-27T02:11:05-00:00",
+      "address": "ул. Ашхабадская, 30",
+      "location": {
+        "latitude": 42.109563,
+        "longitude": 74.117694
+      },
+      "city": "Karakol",
+      "country": "Kyrgyzstan",
+      "rating": 3,
+      "type": "Festival, Night Live"
     },
     {
       "id": 2,
-      "name": "Food Fest",
-      "type": "Festival, Food",
+      "name": "Comstruct Hairport Entroflex",
+      "price": 160,
+      "imageUrl": "https://img2.goodfon.com/wallpaper/big/c/5c/hotel-vyveska-neon-vecher.jpg",
+      "isOpen": true,
+      "dateTimeStart": "2019-05-19T02:34:49-00:00",
+      "dateTimeEnd": "2019-05-19T22:57:44-00:00",
+      "address": "ул. Ашхабадская, 30",
+      "location": {
+        "latitude": 41.096961,
+        "longitude": 73.284856
+      },
+      "city": "Karakol",
+      "country": "Kyrgyzstan",
+      "rating": 4,
+      "type": "Festival, Night Live"
+    },
+    {
+      "id": 3,
+      "name": "Insectus Quarmony Enquility",
+      "price": 200,
+      "imageUrl": "https://img2.goodfon.com/wallpaper/big/c/5c/hotel-vyveska-neon-vecher.jpg",
+      "isOpen": false,
+      "dateTimeStart": "2019-05-26T05:14:16-00:00",
+      "dateTimeEnd": "2019-05-23T11:51:37-00:00",
+      "address": "ул. Ашхабадская, 30",
+      "location": {
+        "latitude": 40.625469,
+        "longitude": 73.417354
+      },
+      "city": "Karakol",
+      "country": "Kyrgyzstan",
+      "rating": 3,
+      "type": "Festival, Food"
+    },
+    {
+      "id": 4,
+      "name": "Neteria Trasola Ecolight",
+      "price": 160,
+      "imageUrl": "https://img2.goodfon.com/wallpaper/big/c/5c/hotel-vyveska-neon-vecher.jpg",
+      "isOpen": true,
+      "dateTimeStart": "2019-05-18T20:21:20-00:00",
+      "dateTimeEnd": "2019-06-05T19:11:37-00:00",
+      "address": "Коенкозов көчөсү 70, 722200",
+      "location": {
+        "latitude": 39.829401,
+        "longitude": 74.122398
+      },
+      "city": "Bishkek",
+      "country": "Kyrgyzstan",
+      "rating": 1,
+      "type": "Festival, Night Live"
+    },
+    {
+      "id": 5,
+      "name": "Luxuria Furnafix Thredz",
+      "price": 200,
+      "imageUrl": "https://img2.goodfon.com/wallpaper/big/c/5c/hotel-vyveska-neon-vecher.jpg",
+      "isOpen": true,
+      "dateTimeStart": "2019-06-24T12:21:41-00:00",
+      "dateTimeEnd": "2019-06-15T11:58:06-00:00",
+      "address": "Коенкозов көчөсү 70, 722200",
+      "location": {
+        "latitude": 40.956124,
+        "longitude": 73.492534
+      },
+      "city": "Karakol",
+      "country": "Kyrgyzstan",
+      "rating": 2,
+      "type": "Festival, Night Live"
+    },
+    {
+      "id": 6,
+      "name": "Softmicro Entogrok Affluex",
+      "price": 130,
+      "imageUrl": "https://img2.goodfon.com/wallpaper/big/c/5c/hotel-vyveska-neon-vecher.jpg",
+      "isOpen": false,
+      "dateTimeStart": "2019-06-14T01:51:38-00:00",
+      "dateTimeEnd": "2019-06-17T20:02:30-00:00",
+      "address": "улица Боконбаева, 120",
+      "location": {
+        "latitude": 42.235175,
+        "longitude": 73.544621
+      },
+      "city": "Karakol",
+      "country": "Kyrgyzstan",
+      "rating": 4,
+      "type": "Festival, Food"
+    },
+    {
+      "id": 7,
+      "name": "Virxo Miraclis Lexicondo",
+      "price": 140,
+      "imageUrl": "https://img2.goodfon.com/wallpaper/big/c/5c/hotel-vyveska-neon-vecher.jpg",
+      "isOpen": false,
+      "dateTimeStart": "2019-06-21T06:39:14-00:00",
+      "dateTimeEnd": "2019-05-22T07:37:58-00:00",
+      "address": "улица Боконбаева, 120",
+      "location": {
+        "latitude": 40.345887,
+        "longitude": 73.556651
+      },
+      "city": "Bishkek",
+      "country": "Kyrgyzstan",
+      "rating": 2,
+      "type": "Festival, Night Live"
+    },
+    {
+      "id": 8,
+      "name": "Solaren Nutralab Exoblue",
+      "price": 130,
+      "imageUrl": "https://img2.goodfon.com/wallpaper/big/c/5c/hotel-vyveska-neon-vecher.jpg",
+      "isOpen": true,
+      "dateTimeStart": "2019-05-18T00:11:30-00:00",
+      "dateTimeEnd": "2019-06-25T22:57:27-00:00",
+      "address": "ул. Ашхабадская, 30",
+      "location": {
+        "latitude": 41.667382,
+        "longitude": 73.218427
+      },
+      "city": "Karakol",
+      "country": "Kyrgyzstan",
+      "rating": 1,
+      "type": "Festival, Night Live"
+    },
+    {
+      "id": 9,
+      "name": "Extremo Kiggle Cedward",
+      "price": 140,
+      "imageUrl": "https://img2.goodfon.com/wallpaper/big/c/5c/hotel-vyveska-neon-vecher.jpg",
+      "isOpen": true,
+      "dateTimeStart": "2019-06-16T10:52:15-00:00",
+      "dateTimeEnd": "2019-05-29T11:58:18-00:00",
+      "address": "улица Боконбаева, 120",
+      "location": {
+        "latitude": 40.813693,
+        "longitude": 73.234472
+      },
+      "city": "Bishkek",
+      "country": "Kyrgyzstan",
+      "rating": 1,
+      "type": "Festival, Food"
+    },
+    {
+      "id": 10,
+      "name": "Pyramis Neurocell Edecine",
       "price": 100,
-      "status": "Closed",
-      "rating": "4,5",
-      "adress": "Strip N11 Las-Vegas",
-      "fromDate": "July 24, 20",
-      "fromTime": "10:15 AM",
-      "toDate": "July 27, 20",
-      "toTime": "10:15 AM"
+      "imageUrl": "https://img2.goodfon.com/wallpaper/big/c/5c/hotel-vyveska-neon-vecher.jpg",
+      "isOpen": false,
+      "dateTimeStart": "2019-06-24T10:23:53-00:00",
+      "dateTimeEnd": "2019-06-09T00:08:11-00:00",
+      "address": "улица Боконбаева, 120",
+      "location": {
+        "latitude": 41.356254,
+        "longitude": 73.695158
+      },
+      "city": "Karakol",
+      "country": "Kyrgyzstan",
+      "rating": 3,
+      "type": "Festival, Food"
+    },
+    {
+      "id": 11,
+      "name": "Flyboyz Splinx Terragen",
+      "price": 110,
+      "imageUrl": "https://img2.goodfon.com/wallpaper/big/c/5c/hotel-vyveska-neon-vecher.jpg",
+      "isOpen": false,
+      "dateTimeStart": "2019-06-30T05:04:39-00:00",
+      "dateTimeEnd": "2019-05-30T01:16:09-00:00",
+      "address": "улица Боконбаева, 120",
+      "location": {
+        "latitude": 39.755013,
+        "longitude": 74.061401
+      },
+      "city": "Bishkek",
+      "country": "Kyrgyzstan",
+      "rating": 4,
+      "type": "Festival, Food"
+    },
+    {
+      "id": 12,
+      "name": "Glasstep Combogen Retrotex",
+      "price": 160,
+      "imageUrl": "https://img2.goodfon.com/wallpaper/big/c/5c/hotel-vyveska-neon-vecher.jpg",
+      "isOpen": false,
+      "dateTimeStart": "2019-05-30T19:42:58-00:00",
+      "dateTimeEnd": "2019-06-21T07:20:06-00:00",
+      "address": "улица Боконбаева, 120",
+      "location": {
+        "latitude": 41.389588,
+        "longitude": 73.450274
+      },
+      "city": "Karakol",
+      "country": "Kyrgyzstan",
+      "rating": 2,
+      "type": "Festival, Food"
+    },
+    {
+      "id": 13,
+      "name": "Dancerity Kengen Bunga",
+      "price": 150,
+      "imageUrl": "https://img2.goodfon.com/wallpaper/big/c/5c/hotel-vyveska-neon-vecher.jpg",
+      "isOpen": false,
+      "dateTimeStart": "2019-05-19T18:41:57-00:00",
+      "dateTimeEnd": "2019-06-19T22:28:00-00:00",
+      "address": "улица Боконбаева, 120",
+      "location": {
+        "latitude": 41.44644,
+        "longitude": 73.921048
+      },
+      "city": "Bishkek",
+      "country": "Kyrgyzstan",
+      "rating": 1,
+      "type": "Festival, Food"
+    },
+    {
+      "id": 14,
+      "name": "Genmy Bleendot Furnigeer",
+      "price": 130,
+      "imageUrl": "https://img2.goodfon.com/wallpaper/big/c/5c/hotel-vyveska-neon-vecher.jpg",
+      "isOpen": true,
+      "dateTimeStart": "2019-05-18T22:12:54-00:00",
+      "dateTimeEnd": "2019-05-31T23:48:35-00:00",
+      "address": "Коенкозов көчөсү 70, 722200",
+      "location": {
+        "latitude": 40.017037,
+        "longitude": 73.285142
+      },
+      "city": "Bishkek",
+      "country": "Kyrgyzstan",
+      "rating": 4,
+      "type": "Festival, Night Live"
+    },
+    {
+      "id": 15,
+      "name": "Comtent Orbin Medalert",
+      "price": 160,
+      "imageUrl": "https://img2.goodfon.com/wallpaper/big/c/5c/hotel-vyveska-neon-vecher.jpg",
+      "isOpen": false,
+      "dateTimeStart": "2019-06-19T01:48:43-00:00",
+      "dateTimeEnd": "2019-06-21T03:29:17-00:00",
+      "address": "улица Боконбаева, 120",
+      "location": {
+        "latitude": 41.053705,
+        "longitude": 73.159564
+      },
+      "city": "Bishkek",
+      "country": "Kyrgyzstan",
+      "rating": 1,
+      "type": "Festival, Food"
+    },
+    {
+      "id": 16,
+      "name": "Zentia Kidgrease Reversus",
+      "price": 200,
+      "imageUrl": "https://img2.goodfon.com/wallpaper/big/c/5c/hotel-vyveska-neon-vecher.jpg",
+      "isOpen": true,
+      "dateTimeStart": "2019-06-28T02:46:52-00:00",
+      "dateTimeEnd": "2019-05-18T16:55:04-00:00",
+      "address": "ул. Ашхабадская, 30",
+      "location": {
+        "latitude": 40.852916,
+        "longitude": 74.049011
+      },
+      "city": "Bishkek",
+      "country": "Kyrgyzstan",
+      "rating": 3,
+      "type": "Festival, Night Live"
+    },
+    {
+      "id": 17,
+      "name": "Apexia Enersol Ovium",
+      "price": 130,
+      "imageUrl": "https://img2.goodfon.com/wallpaper/big/c/5c/hotel-vyveska-neon-vecher.jpg",
+      "isOpen": true,
+      "dateTimeStart": "2019-06-25T02:44:41-00:00",
+      "dateTimeEnd": "2019-06-09T03:24:05-00:00",
+      "address": "ул. Ашхабадская, 30",
+      "location": {
+        "latitude": 41.377942,
+        "longitude": 73.931816
+      },
+      "city": "Bishkek",
+      "country": "Kyrgyzstan",
+      "rating": 3,
+      "type": "Festival, Night Live"
+    },
+    {
+      "id": 18,
+      "name": "Vortexaco Securia Zillactic",
+      "price": 160,
+      "imageUrl": "https://img2.goodfon.com/wallpaper/big/c/5c/hotel-vyveska-neon-vecher.jpg",
+      "isOpen": false,
+      "dateTimeStart": "2019-07-01T09:56:30-00:00",
+      "dateTimeEnd": "2019-07-08T15:30:21-00:00",
+      "address": "ул. Ашхабадская, 30",
+      "location": {
+        "latitude": 41.698043,
+        "longitude": 73.682577
+      },
+      "city": "Karakol",
+      "country": "Kyrgyzstan",
+      "rating": 4,
+      "type": "Festival, Night Live"
+    },
+    {
+      "id": 19,
+      "name": "Geekol Genmex Momentia",
+      "price": 140,
+      "imageUrl": "https://img2.goodfon.com/wallpaper/big/c/5c/hotel-vyveska-neon-vecher.jpg",
+      "isOpen": false,
+      "dateTimeStart": "2019-05-21T19:34:24-00:00",
+      "dateTimeEnd": "2019-06-09T18:47:18-00:00",
+      "address": "Коенкозов көчөсү 70, 722200",
+      "location": {
+        "latitude": 41.264629,
+        "longitude": 73.726934
+      },
+      "city": "Karakol",
+      "country": "Kyrgyzstan",
+      "rating": 3,
+      "type": "Festival, Night Live"
+    },
+    {
+      "id": 20,
+      "name": "Portaline Calcula Hivedom",
+      "price": 130,
+      "imageUrl": "https://img2.goodfon.com/wallpaper/big/c/5c/hotel-vyveska-neon-vecher.jpg",
+      "isOpen": false,
+      "dateTimeStart": "2019-07-08T06:59:15-00:00",
+      "dateTimeEnd": "2019-06-16T01:14:00-00:00",
+      "address": "улица Боконбаева, 120",
+      "location": {
+        "latitude": 41.780481,
+        "longitude": 73.7335
+      },
+      "city": "Bishkek",
+      "country": "Kyrgyzstan",
+      "rating": 3,
+      "type": "Festival, Night Live"
     }
   ]
 }
