@@ -1,6 +1,5 @@
 {
-  "events":
-  [
+  "events": [
     {
       "id": 1,
       "name": "Olucore Furnigeer Icology",
@@ -17,7 +16,18 @@
       "citiesId": 8,
       "countriesId": 1,
       "rating": 4,
-      "eventTypesIds": [4, 4]
+      "eventTypes": [
+        {
+          "id": 3,
+          "name": "Celebration",
+          "description": ""
+        },
+        {
+          "id": 4,
+          "name": "For children",
+          "description": ""
+        }
+      ]
     },
     {
       "id": 2,
@@ -35,7 +45,18 @@
       "citiesId": 2,
       "countriesId": 1,
       "rating": 2,
-      "eventTypesIds": [4, 2]
+      "eventTypesIds": [
+        {
+          "id": 3,
+          "name": "Celebration",
+          "description": ""
+        },
+        {
+          "id": 4,
+          "name": "For children",
+          "description": ""
+        }
+      ]
     },
     {
       "id": 3,
@@ -53,7 +74,18 @@
       "citiesId": 7,
       "countriesId": 1,
       "rating": 1,
-      "eventTypesIds": [4, 3]
+      "eventTypesIds": [
+        {
+          "id": 3,
+          "name": "Celebration",
+          "description": ""
+        },
+        {
+          "id": 4,
+          "name": "For children",
+          "description": ""
+        }
+      ]
     },
     {
       "id": 4,
@@ -71,7 +103,18 @@
       "citiesId": 9,
       "countriesId": 1,
       "rating": 5,
-      "eventTypesIds": [4, 2]
+      "eventTypesIds": [
+        {
+          "id": 1,
+          "name": "Festival",
+          "description": ""
+        },
+        {
+          "id": 2,
+          "name": "Night Live",
+          "description": ""
+        }
+      ]
     },
     {
       "id": 5,
@@ -89,7 +132,18 @@
       "citiesId": 6,
       "countriesId": 1,
       "rating": 3,
-      "eventTypesIds": [2, 4]
+      "eventTypesIds": [
+        {
+          "id": 1,
+          "name": "Festival",
+          "description": ""
+        },
+        {
+          "id": 2,
+          "name": "Night Live",
+          "description": ""
+        }
+      ]
     },
     {
       "id": 6,
@@ -107,7 +161,18 @@
       "citiesId": 9,
       "countriesId": 1,
       "rating": 2,
-      "eventTypesIds": [3, 1]
+      "eventTypesIds": [
+        {
+          "id": 1,
+          "name": "Festival",
+          "description": ""
+        },
+        {
+          "id": 2,
+          "name": "Night Live",
+          "description": ""
+        }
+      ]
     },
     {
       "id": 7,
@@ -125,7 +190,18 @@
       "citiesId": 1,
       "countriesId": 1,
       "rating": 2,
-      "eventTypesIds": [3, 1]
+      "eventTypesIds": [
+        {
+          "id": 1,
+          "name": "Festival",
+          "description": ""
+        },
+        {
+          "id": 2,
+          "name": "Night Live",
+          "description": ""
+        }
+      ]
     },
     {
       "id": 8,
@@ -143,7 +219,18 @@
       "citiesId": 3,
       "countriesId": 1,
       "rating": 4,
-      "eventTypesIds": [2, 1]
+      "eventTypesIds": [
+        {
+          "id": 1,
+          "name": "Festival",
+          "description": ""
+        },
+        {
+          "id": 2,
+          "name": "Night Live",
+          "description": ""
+        }
+      ]
     },
     {
       "id": 9,
@@ -161,7 +248,18 @@
       "citiesId": 3,
       "countriesId": 1,
       "rating": 1,
-      "eventTypesIds": [2, 4]
+      "eventTypesIds": [
+        {
+          "id": 1,
+          "name": "Festival",
+          "description": ""
+        },
+        {
+          "id": 2,
+          "name": "Night Live",
+          "description": ""
+        }
+      ]
     },
     {
       "id": 10,
@@ -179,7 +277,18 @@
       "citiesId": 1,
       "countriesId": 1,
       "rating": 3,
-      "eventTypesIds": [4, 2]
+      "eventTypesIds": [
+        {
+          "id": 1,
+          "name": "Festival",
+          "description": ""
+        },
+        {
+          "id": 2,
+          "name": "Night Live",
+          "description": ""
+        }
+      ]
     },
     {
       "id": 11,
@@ -197,7 +306,18 @@
       "citiesId": 1,
       "countriesId": 1,
       "rating": 4,
-      "eventTypesIds": [3, 3]
+      "eventTypesIds": [
+        {
+          "id": 1,
+          "name": "Festival",
+          "description": ""
+        },
+        {
+          "id": 2,
+          "name": "Night Live",
+          "description": ""
+        }
+      ]
     },
     {
       "id": 12,
@@ -215,7 +335,18 @@
       "citiesId": 1,
       "countriesId": 1,
       "rating": 1,
-      "eventTypesIds": [1, 2]
+      "eventTypesIds": [
+        {
+          "id": 3,
+          "name": "Celebration",
+          "description": ""
+        },
+        {
+          "id": 4,
+          "name": "For children",
+          "description": ""
+        }
+      ]
     },
     {
       "id": 13,
@@ -233,7 +364,18 @@
       "citiesId": 8,
       "countriesId": 1,
       "rating": 5,
-      "eventTypesIds": [1, 1]
+      "eventTypesIds": [
+        {
+          "id": 3,
+          "name": "Celebration",
+          "description": ""
+        },
+        {
+          "id": 4,
+          "name": "For children",
+          "description": ""
+        }
+      ]
     },
     {
       "id": 14,
@@ -251,7 +393,18 @@
       "citiesId": 3,
       "countriesId": 1,
       "rating": 4,
-      "eventTypesIds": [3, 1]
+      "eventTypesIds": [
+        {
+          "id": 3,
+          "name": "Celebration",
+          "description": ""
+        },
+        {
+          "id": 4,
+          "name": "For children",
+          "description": ""
+        }
+      ]
     },
     {
       "id": 15,
@@ -269,7 +422,18 @@
       "citiesId": 4,
       "countriesId": 1,
       "rating": 5,
-      "eventTypesIds": [3, 1]
+      "eventTypesIds": [
+        {
+          "id": 3,
+          "name": "Celebration",
+          "description": ""
+        },
+        {
+          "id": 4,
+          "name": "For children",
+          "description": ""
+        }
+      ]
     },
     {
       "id": 16,
@@ -287,7 +451,18 @@
       "citiesId": 6,
       "countriesId": 1,
       "rating": 3,
-      "eventTypesIds": [1, 4]
+      "eventTypesIds": [
+        {
+          "id": 3,
+          "name": "Celebration",
+          "description": ""
+        },
+        {
+          "id": 4,
+          "name": "For children",
+          "description": ""
+        }
+      ]
     },
     {
       "id": 17,
@@ -305,7 +480,18 @@
       "citiesId": 7,
       "countriesId": 1,
       "rating": 2,
-      "eventTypesIds": [3, 1]
+      "eventTypesIds": [
+        {
+          "id": 1,
+          "name": "Festival",
+          "description": ""
+        },
+        {
+          "id": 2,
+          "name": "Night Live",
+          "description": ""
+        }
+      ]
     },
     {
       "id": 18,
@@ -323,7 +509,18 @@
       "citiesId": 2,
       "countriesId": 1,
       "rating": 2,
-      "eventTypesIds": [3, 1]
+      "eventTypesIds": [
+        {
+          "id": 1,
+          "name": "Festival",
+          "description": ""
+        },
+        {
+          "id": 2,
+          "name": "Night Live",
+          "description": ""
+        }
+      ]
     },
     {
       "id": 19,
@@ -341,7 +538,18 @@
       "citiesId": 2,
       "countriesId": 1,
       "rating": 3,
-      "eventTypesIds": [3, 2]
+      "eventTypesIds": [
+        {
+          "id": 1,
+          "name": "Festival",
+          "description": ""
+        },
+        {
+          "id": 2,
+          "name": "Night Live",
+          "description": ""
+        }
+      ]
     },
     {
       "id": 20,
@@ -359,7 +567,18 @@
       "citiesId": 7,
       "countriesId": 1,
       "rating": 2,
-      "eventTypesIds": [1, 1]
+      "eventTypesIds": [
+        {
+          "id": 1,
+          "name": "Festival",
+          "description": ""
+        },
+        {
+          "id": 2,
+          "name": "Night Live",
+          "description": ""
+        }
+      ]
     }
   ]
 }
