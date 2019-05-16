@@ -17,7 +17,7 @@
       "citiesId": 8,
       "countriesId": 1,
       "rating": 4,
-      "eventTypesIds": "[4, 4]"
+      "eventTypesIds": [4, 4]
     },
     {
       "id": 2,
@@ -35,7 +35,7 @@
       "citiesId": 2,
       "countriesId": 1,
       "rating": 2,
-      "eventTypesIds": "[4, 2]"
+      "eventTypesIds": [4, 2]
     },
     {
       "id": 3,
@@ -53,7 +53,7 @@
       "citiesId": 7,
       "countriesId": 1,
       "rating": 1,
-      "eventTypesIds": "[4, 3]"
+      "eventTypesIds": [4, 3]
     },
     {
       "id": 4,
@@ -71,7 +71,7 @@
       "citiesId": 9,
       "countriesId": 1,
       "rating": 5,
-      "eventTypesIds": "[4, 2]"
+      "eventTypesIds": [4, 2]
     },
     {
       "id": 5,
@@ -89,7 +89,7 @@
       "citiesId": 6,
       "countriesId": 1,
       "rating": 3,
-      "eventTypesIds": "[2, 4]"
+      "eventTypesIds": [2, 4]
     },
     {
       "id": 6,
@@ -107,7 +107,7 @@
       "citiesId": 9,
       "countriesId": 1,
       "rating": 2,
-      "eventTypesIds": "[3, 1]"
+      "eventTypesIds": [3, 1]
     },
     {
       "id": 7,
@@ -125,7 +125,7 @@
       "citiesId": 1,
       "countriesId": 1,
       "rating": 2,
-      "eventTypesIds": "[3, 1]"
+      "eventTypesIds": [3, 1]
     },
     {
       "id": 8,
@@ -143,7 +143,7 @@
       "citiesId": 3,
       "countriesId": 1,
       "rating": 4,
-      "eventTypesIds": "[2, 1]"
+      "eventTypesIds": [2, 1]
     },
     {
       "id": 9,
@@ -161,7 +161,7 @@
       "citiesId": 3,
       "countriesId": 1,
       "rating": 1,
-      "eventTypesIds": "[2, 4]"
+      "eventTypesIds": [2, 4]
     },
     {
       "id": 10,
@@ -179,7 +179,7 @@
       "citiesId": 1,
       "countriesId": 1,
       "rating": 3,
-      "eventTypesIds": "[4, 2]"
+      "eventTypesIds": [4, 2]
     },
     {
       "id": 11,
@@ -197,7 +197,7 @@
       "citiesId": 1,
       "countriesId": 1,
       "rating": 4,
-      "eventTypesIds": "[3, 3]"
+      "eventTypesIds": [3, 3]
     },
     {
       "id": 12,
@@ -215,7 +215,7 @@
       "citiesId": 1,
       "countriesId": 1,
       "rating": 1,
-      "eventTypesIds": "[1, 2]"
+      "eventTypesIds": [1, 2]
     },
     {
       "id": 13,
@@ -233,7 +233,7 @@
       "citiesId": 8,
       "countriesId": 1,
       "rating": 5,
-      "eventTypesIds": "[1, 1]"
+      "eventTypesIds": [1, 1]
     },
     {
       "id": 14,
@@ -251,7 +251,7 @@
       "citiesId": 3,
       "countriesId": 1,
       "rating": 4,
-      "eventTypesIds": "[3, 1]"
+      "eventTypesIds": [3, 1]
     },
     {
       "id": 15,
@@ -269,7 +269,7 @@
       "citiesId": 4,
       "countriesId": 1,
       "rating": 5,
-      "eventTypesIds": "[3, 1]"
+      "eventTypesIds": [3, 1]
     },
     {
       "id": 16,
@@ -287,7 +287,7 @@
       "citiesId": 6,
       "countriesId": 1,
       "rating": 3,
-      "eventTypesIds": "[1, 4]"
+      "eventTypesIds": [1, 4]
     },
     {
       "id": 17,
@@ -305,7 +305,7 @@
       "citiesId": 7,
       "countriesId": 1,
       "rating": 2,
-      "eventTypesIds": "[3, 1]"
+      "eventTypesIds": [3, 1]
     },
     {
       "id": 18,
@@ -323,7 +323,7 @@
       "citiesId": 2,
       "countriesId": 1,
       "rating": 2,
-      "eventTypesIds": "[3, 1]"
+      "eventTypesIds": [3, 1]
     },
     {
       "id": 19,
@@ -341,7 +341,7 @@
       "citiesId": 2,
       "countriesId": 1,
       "rating": 3,
-      "eventTypesIds": "[3, 2]"
+      "eventTypesIds": [3, 2]
     },
     {
       "id": 20,
@@ -359,7 +359,7 @@
       "citiesId": 7,
       "countriesId": 1,
       "rating": 2,
-      "eventTypesIds": "[1, 1]"
+      "eventTypesIds": [1, 1]
     }
   ]
 }
