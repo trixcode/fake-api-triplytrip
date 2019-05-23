@@ -3,7 +3,7 @@
     {
       "categoriesId": 1,
       "id": 20,
-      "createdBy": 1,
+      "userId": 1,
       "name": "KOFFEE",
       "address": "Ленина 55/3",
       "countriesId": 1,
@@ -32,7 +32,7 @@
     {
       "categoriesId": 3,
       "id": 21,
-      "createdBy": 2,
+      "userId": 2,
       "name": "DEVILTOE",
       "address": "ул. Ашхабадская, 30",
       "countriesId": 1,
@@ -61,7 +61,7 @@
     {
       "categoriesId": 1,
       "id": 22,
-      "createdBy": 3,
+      "userId": 3,
       "name": "BIFLEX",
       "address": "Исанова 150",
       "countriesId": 1,
@@ -90,7 +90,7 @@
     {
       "categoriesId": 2,
       "id": 23,
-      "createdBy": 4,
+      "userId": 4,
       "name": "GEEKOLOGY",
       "address": "ул. Ашхабадская, 30",
       "countriesId": 1,
@@ -119,7 +119,7 @@
     {
       "categoriesId": 1,
       "id": 24,
-      "createdBy": 5,
+      "userId": 5,
       "name": "ATGEN",
       "address": "Коенкозов көчөсү 70, 722200",
       "countriesId": 1,
@@ -148,7 +148,7 @@
     {
       "categoriesId": 3,
       "id": 25,
-      "createdBy": 6,
+      "userId": 6,
       "name": "GLOBOIL",
       "address": "ул. Ашхабадская, 30",
       "countriesId": 1,
@@ -177,7 +177,7 @@
     {
       "categoriesId": 1,
       "id": 26,
-      "createdBy": 7,
+      "userId": 7,
       "name": "ZOARERE",
       "address": "Горького 122/3",
       "countriesId": 1,
@@ -206,7 +206,7 @@
     {
       "categoriesId": 2,
       "id": 27,
-      "createdBy": 8,
+      "userId": 8,
       "name": "VIOCULAR",
       "address": "ул. Ашхабадская, 30",
       "countriesId": 1,
@@ -235,7 +235,7 @@
     {
       "categoriesId": 1,
       "id": 28,
-      "createdBy": 9,
+      "userId": 9,
       "name": "PORTICA",
       "address": "Чуй 255",
       "countriesId": 1,
@@ -264,7 +264,7 @@
     {
       "categoriesId": 2,
       "id": 29,
-      "createdBy": 10,
+      "userId": 10,
       "name": "ANDRYX",
       "address": "Горького 122/3",
       "countriesId": 1,
@@ -293,7 +293,7 @@
     {
       "categoriesId": 3,
       "id": 30,
-      "createdBy": 11,
+      "userId": 11,
       "name": "GROK",
       "address": "Чуй 255",
       "countriesId": 1,
@@ -322,7 +322,7 @@
     {
       "categoriesId": 1,
       "id": 31,
-      "createdBy": 12,
+      "userId": 12,
       "name": "ACCIDENCY",
       "address": "Чуй 255",
       "countriesId": 1,
@@ -351,7 +351,7 @@
     {
       "categoriesId": 3,
       "id": 32,
-      "createdBy": 13,
+      "userId": 13,
       "name": "ZENCO",
       "address": "Ленина 55/3",
       "countriesId": 1,
@@ -380,7 +380,7 @@
     {
       "categoriesId": 1,
       "id": 33,
-      "createdBy": 14,
+      "userId": 14,
       "name": "NIMON",
       "address": "Горького 122/3",
       "countriesId": 1,
@@ -409,7 +409,7 @@
     {
       "categoriesId": 1,
       "id": 34,
-      "createdBy": 15,
+      "userId": 15,
       "name": "SIGNITY",
       "address": "Горького 122/3",
       "countriesId": 1,
@@ -438,7 +438,7 @@
     {
       "categoriesId": 2,
       "id": 35,
-      "createdBy": 16,
+      "userId": 16,
       "name": "CORPULSE",
       "address": "Горького 122/3",
       "countriesId": 1,
@@ -467,7 +467,7 @@
     {
       "categoriesId": 2,
       "id": 36,
-      "createdBy": 17,
+      "userId": 17,
       "name": "EARTHPLEX",
       "address": "Коенкозов көчөсү 70, 722200",
       "countriesId": 1,
@@ -496,7 +496,7 @@
     {
       "categoriesId": 3,
       "id": 37,
-      "createdBy": 18,
+      "userId": 18,
       "name": "SURELOGIC",
       "address": "Ленина 55/3",
       "countriesId": 1,
@@ -525,7 +525,7 @@
     {
       "categoriesId": 3,
       "id": 38,
-      "createdBy": 19,
+      "userId": 19,
       "name": "GEEKNET",
       "address": "Горького 122/3",
       "countriesId": 1,
@@ -554,7 +554,7 @@
     {
       "categoriesId": 2,
       "id": 39,
-      "createdBy": 20,
+      "userId": 20,
       "name": "HOUSEDOWN",
       "address": "ул. Ашхабадская, 30",
       "countriesId": 1,
@@ -583,7 +583,7 @@
     {
       "categoriesId": 2,
       "id": 40,
-      "createdBy": 21,
+      "userId": 21,
       "name": "SOLAREN",
       "address": "Горького 122/3",
       "countriesId": 1,
@@ -612,7 +612,7 @@
     {
       "categoriesId": 3,
       "id": 41,
-      "createdBy": 22,
+      "userId": 22,
       "name": "VORTEXACO",
       "address": "ул. Ашхабадская, 30",
       "countriesId": 1,
@@ -641,7 +641,7 @@
     {
       "categoriesId": 3,
       "id": 42,
-      "createdBy": 23,
+      "userId": 23,
       "name": "ENTROPIX",
       "address": "Исанова 150",
       "countriesId": 1,
@@ -670,7 +670,7 @@
     {
       "categoriesId": 1,
       "id": 43,
-      "createdBy": 24,
+      "userId": 24,
       "name": "PROSURE",
       "address": "Чуй 255",
       "countriesId": 1,
@@ -699,7 +699,7 @@
     {
       "categoriesId": 2,
       "id": 44,
-      "createdBy": 25,
+      "userId": 25,
       "name": "NEPTIDE",
       "address": "улица Боконбаева, 120",
       "countriesId": 1,
@@ -728,7 +728,7 @@
     {
       "categoriesId": 3,
       "id": 45,
-      "createdBy": 26,
+      "userId": 26,
       "name": "ZENOLUX",
       "address": "Чуй 255",
       "countriesId": 1,
@@ -757,7 +757,7 @@
     {
       "categoriesId": 2,
       "id": 46,
-      "createdBy": 27,
+      "userId": 27,
       "name": "THREDZ",
       "address": "Коенкозов көчөсү 70, 722200",
       "countriesId": 1,
@@ -786,7 +786,7 @@
     {
       "categoriesId": 2,
       "id": 47,
-      "createdBy": 28,
+      "userId": 28,
       "name": "CIPROMOX",
       "address": "Ленина 55/3",
       "countriesId": 1,
@@ -815,7 +815,7 @@
     {
       "categoriesId": 2,
       "id": 48,
-      "createdBy": 29,
+      "userId": 29,
       "name": "LUMBREX",
       "address": "ул. Ашхабадская, 30",
       "countriesId": 1,
@@ -844,7 +844,7 @@
     {
       "categoriesId": 2,
       "id": 49,
-      "createdBy": 30,
+      "userId": 30,
       "name": "TECHTRIX",
       "address": "Ленина 55/3",
       "countriesId": 1,
@@ -873,7 +873,7 @@
     {
       "categoriesId": 2,
       "id": 50,
-      "createdBy": 31,
+      "userId": 31,
       "name": "PROGENEX",
       "address": "ул. Ашхабадская, 30",
       "countriesId": 1,
@@ -902,7 +902,7 @@
     {
       "categoriesId": 3,
       "id": 51,
-      "createdBy": 32,
+      "userId": 32,
       "name": "NSPIRE",
       "address": "Исанова 150",
       "countriesId": 1,
@@ -931,7 +931,7 @@
     {
       "categoriesId": 1,
       "id": 52,
-      "createdBy": 33,
+      "userId": 33,
       "name": "UNIWORLD",
       "address": "ул. Ашхабадская, 30",
       "countriesId": 1,
@@ -960,7 +960,7 @@
     {
       "categoriesId": 2,
       "id": 53,
-      "createdBy": 34,
+      "userId": 34,
       "name": "OPTIQUE",
       "address": "Коенкозов көчөсү 70, 722200",
       "countriesId": 1,
@@ -989,7 +989,7 @@
     {
       "categoriesId": 2,
       "id": 54,
-      "createdBy": 35,
+      "userId": 35,
       "name": "MAGNEATO",
       "address": "улица Боконбаева, 120",
       "countriesId": 1,
@@ -1018,7 +1018,7 @@
     {
       "categoriesId": 2,
       "id": 55,
-      "createdBy": 36,
+      "userId": 36,
       "name": "MARQET",
       "address": "Коенкозов көчөсү 70, 722200",
       "countriesId": 1,
@@ -1047,7 +1047,7 @@
     {
       "categoriesId": 3,
       "id": 56,
-      "createdBy": 37,
+      "userId": 37,
       "name": "TECHMANIA",
       "address": "Ленина 55/3",
       "countriesId": 1,
@@ -1076,7 +1076,7 @@
     {
       "categoriesId": 2,
       "id": 57,
-      "createdBy": 38,
+      "userId": 38,
       "name": "EXERTA",
       "address": "Чуй 255",
       "countriesId": 1,
@@ -1105,7 +1105,7 @@
     {
       "categoriesId": 1,
       "id": 58,
-      "createdBy": 39,
+      "userId": 39,
       "name": "CENTREXIN",
       "address": "Чуй 255",
       "countriesId": 1,
@@ -1134,7 +1134,7 @@
     {
       "categoriesId": 1,
       "id": 59,
-      "createdBy": 40,
+      "userId": 40,
       "name": "COSMOSIS",
       "address": "Коенкозов көчөсү 70, 722200",
       "countriesId": 1,
@@ -1163,7 +1163,7 @@
     {
       "categoriesId": 2,
       "id": 60,
-      "createdBy": 41,
+      "userId": 41,
       "name": "DOGNOSIS",
       "address": "Исанова 150",
       "countriesId": 1,
@@ -1192,7 +1192,7 @@
     {
       "categoriesId": 2,
       "id": 61,
-      "createdBy": 42,
+      "userId": 42,
       "name": "KAGGLE",
       "address": "Ленина 55/3",
       "countriesId": 1,
@@ -1221,7 +1221,7 @@
     {
       "categoriesId": 3,
       "id": 62,
-      "createdBy": 43,
+      "userId": 43,
       "name": "ZENTIA",
       "address": "улица Боконбаева, 120",
       "countriesId": 1,
@@ -1250,7 +1250,7 @@
     {
       "categoriesId": 2,
       "id": 63,
-      "createdBy": 44,
+      "userId": 44,
       "name": "MICROLUXE",
       "address": "Исанова 150",
       "countriesId": 1,
@@ -1279,7 +1279,7 @@
     {
       "categoriesId": 1,
       "id": 64,
-      "createdBy": 45,
+      "userId": 45,
       "name": "NETPLAX",
       "address": "Горького 122/3",
       "countriesId": 1,
@@ -1308,7 +1308,7 @@
     {
       "categoriesId": 2,
       "id": 65,
-      "createdBy": 46,
+      "userId": 46,
       "name": "COMTOUR",
       "address": "Горького 122/3",
       "countriesId": 1,
@@ -1337,7 +1337,7 @@
     {
       "categoriesId": 3,
       "id": 66,
-      "createdBy": 47,
+      "userId": 47,
       "name": "KONNECT",
       "address": "ул. Ашхабадская, 30",
       "countriesId": 1,
@@ -1366,7 +1366,7 @@
     {
       "categoriesId": 3,
       "id": 67,
-      "createdBy": 48,
+      "userId": 48,
       "name": "QIAO",
       "address": "Горького 122/3",
       "countriesId": 1,
@@ -1395,7 +1395,7 @@
     {
       "categoriesId": 1,
       "id": 68,
-      "createdBy": 49,
+      "userId": 49,
       "name": "EVENTAGE",
       "address": "Ленина 55/3",
       "countriesId": 1,
@@ -1424,7 +1424,7 @@
     {
       "categoriesId": 2,
       "id": 69,
-      "createdBy": 50,
+      "userId": 50,
       "name": "QUANTASIS",
       "address": "Ленина 55/3",
       "countriesId": 1,
@@ -1453,7 +1453,7 @@
     {
       "categoriesId": 2,
       "id": 70,
-      "createdBy": 51,
+      "userId": 51,
       "name": "POWERNET",
       "address": "улица Боконбаева, 120",
       "countriesId": 1,
@@ -1482,7 +1482,7 @@
     {
       "categoriesId": 2,
       "id": 71,
-      "createdBy": 52,
+      "userId": 52,
       "name": "VALREDA",
       "address": "Коенкозов көчөсү 70, 722200",
       "countriesId": 1,
@@ -1511,7 +1511,7 @@
     {
       "categoriesId": 1,
       "id": 72,
-      "createdBy": 53,
+      "userId": 53,
       "name": "ONTALITY",
       "address": "ул. Ашхабадская, 30",
       "countriesId": 1,
@@ -1540,7 +1540,7 @@
     {
       "categoriesId": 1,
       "id": 73,
-      "createdBy": 54,
+      "userId": 54,
       "name": "APPLICA",
       "address": "Горького 122/3",
       "countriesId": 1,
@@ -1569,7 +1569,7 @@
     {
       "categoriesId": 2,
       "id": 74,
-      "createdBy": 55,
+      "userId": 55,
       "name": "TELEQUIET",
       "address": "Ленина 55/3",
       "countriesId": 1,
@@ -1598,7 +1598,7 @@
     {
       "categoriesId": 1,
       "id": 75,
-      "createdBy": 56,
+      "userId": 56,
       "name": "BOVIS",
       "address": "ул. Ашхабадская, 30",
       "countriesId": 1,
@@ -1627,7 +1627,7 @@
     {
       "categoriesId": 2,
       "id": 76,
-      "createdBy": 57,
+      "userId": 57,
       "name": "OULU",
       "address": "улица Боконбаева, 120",
       "countriesId": 1,
@@ -1656,7 +1656,7 @@
     {
       "categoriesId": 1,
       "id": 77,
-      "createdBy": 58,
+      "userId": 58,
       "name": "OVERFORK",
       "address": "Чуй 255",
       "countriesId": 1,
@@ -1685,7 +1685,7 @@
     {
       "categoriesId": 1,
       "id": 78,
-      "createdBy": 59,
+      "userId": 59,
       "name": "PURIA",
       "address": "ул. Ашхабадская, 30",
       "countriesId": 1,
@@ -1714,7 +1714,7 @@
     {
       "categoriesId": 2,
       "id": 79,
-      "createdBy": 60,
+      "userId": 60,
       "name": "MACRONAUT",
       "address": "Горького 122/3",
       "countriesId": 1,
