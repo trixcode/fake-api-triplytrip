@@ -1,0 +1,16 @@
+{
+  "subscribes" : [
+    {
+    "id": 1,
+    "avatarUrl": "http://placehold.it/32x32",
+    "name" : "",
+    "email" : ""
+    },
+    {
+      "id": 2,
+      "avatarUrl": "http://placehold.it/32x32",
+      "name" : "",
+      "email" : ""
+    }
+  ]
+}
