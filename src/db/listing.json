@@ -1,0 +1,29 @@
+{
+  "listing": [
+    {
+      "categoriesId": null,
+      "id": 1,
+      "userId": null,
+      "name": "",
+      "address": "",
+      "countriesId": null,
+      "citiesId": null,
+      "location": {
+        "latitude": null,
+        "longitude": null
+      },
+      "mainImage": "",
+      "images": [],
+      "email": "",
+      "phone": "",
+      "description": "",
+      "extraDescription": "",
+      "price": null,
+      "rating": null,
+      "isActive": false,
+      "isModerated": true,
+      "createDate": "",
+      "updateDate": ""
+    }
+  ]
+}
